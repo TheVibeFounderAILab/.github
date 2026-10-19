@@ -2,16 +2,17 @@
 
 Practical tools for founders and creators, built from real workflows.
 
-This is the open-source home for tools built By TheVibeFounder. Start with a
-useful project, try it on your own work, and help improve it. Each project has
-its own setup guide, license and versioned downloads.
+FrameGrab and Talking Head Video Agent now live on
+[TheVibeFounder’s personal GitHub](https://github.com/thevibefounder).
+Follow the creator there, or use the links below to star, fork and download
+the projects. Each has its own setup guide, license and versioned downloads.
 
 ## Start building
 
 | Project | What it helps you do | Start here |
 | --- | --- | --- |
-| [FrameGrab](https://github.com/TheVibeFounderAILab/framegrab) | Save permitted media links, inspect a local library and capture frames. Optional transcription on Apple Silicon. | [Download](https://github.com/TheVibeFounderAILab/framegrab/releases/latest/download/framegrab.zip) |
-| [Talking Head Video Agent](https://github.com/TheVibeFounderAILab/talking-head-video-agent) | Turn an owned recording into a reviewed edit with captions and three opening-hook tests, using your coding agent. | [Download](https://github.com/TheVibeFounderAILab/talking-head-video-agent/releases/latest/download/talking-head-video-agent.zip) |
+| [FrameGrab](https://github.com/thevibefounder/framegrab) | Save permitted media links, inspect a local library and capture frames. Optional transcription on Apple Silicon. | [Download](https://github.com/thevibefounder/framegrab/releases/latest/download/framegrab.zip) |
+| [Talking Head Video Agent](https://github.com/thevibefounder/talking-head-video-agent) | Turn an owned recording into a reviewed edit with captions and three opening-hook tests, using your coding agent. | [Download](https://github.com/thevibefounder/talking-head-video-agent/releases/latest/download/talking-head-video-agent.zip) |
 
 FrameGrab runs locally on your computer. The talking-head agent is an editable
 workflow for Codex, Claude Code or another coding agent with local tool access.
